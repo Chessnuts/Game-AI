@@ -1,0 +1,17 @@
+# This is a comment and is ignored
+# First specify the width x height values
+12 10
+# Second specify the start and target box indexes
+0 23
+# Now specify each row of column values
+. . . . . . . . . . . .
+. . . . . . . . . . . .
+. . . . . . . . . . . .
+. . . . . . . . . . . .
+. . . . . . . . . . . .
+. . . . . . . . . . . .
+. . . . . . . . . . . .
+. . . . . . . . . . . .
+. . . . . . . . . . . .
+. . . . . . . . . . . .
+# Note the number of rows and column values match
